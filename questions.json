@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What is the place value of the digit 2 and 3 in the number 3,456,789.11142?",
+        "options": [
+            "The place value of 3 is 3,000,000 and the place value of <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>2</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>100000</mi></msup></mfrac></mfrac></math> .",
+            "The place value of 3 is 300,000 and the place value of 2 is <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>2</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>10000</mi></msup></mfrac></mfrac></math> .",
+            "The place value of 3 is 3,000 and the place value of 2 is <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>2</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>1000</mi></msup></mfrac></mfrac></math> .",
+            "The place value of 3 is 30 and the place value of 2 is <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>2</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>10</mi></msup></mfrac></mfrac></math> ."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "How do we write 10,002,023.23 in words?",
+        "options": [
+            "Ten million, two thousand, twenty-three and twenty-three",
+            "Ten million, two thousand, twenty-three and twenty-three hundredths",
+            "One million, two hundred, twenty-three and twenty-three hundredths",
+            "One million, twenty hundred, twenty-three and twenty-three"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the correct placement of commas in the number 987654321.123?",
+        "options": [
+            "987,654,321.123",
+            "987,65,4321.123",
+            "98,765,4321.123",
+            "987,654,3,21.123"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Write the numeral for the following number name: <br>'Four hundred million, six hundred thirty-five thousand, eight hundred nineteen and nine thousand three hundred seventy-six ten-thousandths'",
+        "options": [
+            "400,635,819.9376",
+            "400,635,819.7369",
+            "400,000,819.9673",
+            "400,000,819.9763"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "I am a number with a secret to unfold.<br> My digits and place values are worth their weight in gold.<br> In my whole part, there are two millions, plus three hundred thousand more.<br> In my tenths place, you’ll find a number eight.<br> In my hundredth place, a four is quite great.<br> In my thousandths place, a six takes its stand.<br> And in my ten-thousandth place, a seven lends a hand.<br> What am I?",
+        "options": [
+            "2,300,000.8467",
+            "300,000.7648",
+            "2,300,000.7648",
+            "300,000.8467"
+        ],
+        "correct": 0
+    }
+]
